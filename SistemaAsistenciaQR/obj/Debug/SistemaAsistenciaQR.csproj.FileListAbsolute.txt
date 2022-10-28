@@ -1,0 +1,53 @@
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\SistemaAsistenciaQR.exe.config
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\SistemaAsistenciaQR.exe
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\SistemaAsistenciaQR.pdb
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.AssemblyReference.cache
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.Form1.resources
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.Properties.Resources.resources
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.GenerateResource.cache
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.CoreCompileInputs.cache
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.exe
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.pdb
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\QRCoder.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.FormGeneradorQR.resources
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.FormScanner.resources
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.CopyComplete
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Controls.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Imaging.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Math.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Video.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.xml
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Controls.xml
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Imaging.xml
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Math.xml
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Video.xml
+C:\Users\Josef\source\repos\SistemaAsistenciaQR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\SistemaAsistenciaQR.exe.config
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\SistemaAsistenciaQR.exe
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\SistemaAsistenciaQR.pdb
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Controls.dll
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.dll
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Imaging.dll
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Math.dll
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Video.dll
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\QRCoder.dll
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.xml
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Controls.xml
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Imaging.xml
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Math.xml
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Video.xml
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.AssemblyReference.cache
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.Form1.resources
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.FormGeneradorQR.resources
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.FormScanner.resources
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.Properties.Resources.resources
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.GenerateResource.cache
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.CoreCompileInputs.cache
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.csproj.CopyComplete
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.exe
+C:\Users\Josef\OneDrive\Escritorio\Sistema de Asistencia QR\SistemaAsistenciaQR\obj\Debug\SistemaAsistenciaQR.pdb
